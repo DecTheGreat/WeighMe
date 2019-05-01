@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeighMe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Weight History</string>
+    <string name="title_notifications">Add</string>
+
+    <string name="user_name">Username</string>
+    <string name="greetings">Hi you have not used this app before would you like to register</string>
+
+    <string name="add_weight_title">Add your Weight</string>
+    <string name="new_weight_message">Please enter your weight</string>
+    <string name="new_weight_date">please enter the date</string>
+    <string name="save_button">Save Data </string>
+    <string name="Reset_button">Reset Data</string>
+
+    <string name="enter_name"/>Please Enter your name
+
+
+    <string name="edit_text">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
